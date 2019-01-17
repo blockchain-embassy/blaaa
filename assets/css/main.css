@@ -1793,6 +1793,7 @@ input, select, textarea {
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
+		outline: none;
 	}
 
 		input[type="submit"]:hover, input[type="submit"]:active,
